@@ -3,10 +3,10 @@
 ## Pidana Khusus: Klasifikasi Narkotika dan Psikotropika di Pengadilan Negeri Makassar
 Repository ini berisi dataset informasi mengenai putusan kasus pidana khusus terkait Narkotika dan Psikotropika di Pengadilan Negeri Makassar dari tahun 2022 hingga 2024. Data ini dikumpulkan dengan tujuan untuk menganalisis putusan dari Pengadilan Negeri Makassar, termasuk barang bukti yang ditemukan dan hasil dari putusan hakim. Amar putusan berisi pernyataan resmi mengenai vonis atau keputusan akhir setelah mempertimbangkan seluruh bukti, fakta hukum, dan argumen yang disampaikan selama persidangan.
 
-🔍 Latar Belakang
+##🔍 Latar Belakang
 Dataset ini dirancang untuk dokumentasi dan analisis hukum kasus pidana narkotika dan psikotropika yang diproses di salah satu Pengadilan Negeri di Indonesia. Tujuan utama dari dataset ini adalah untuk membantu memahami pola-pola putusan dan proses peradilan terkait penyalahgunaan narkotika dan psikotropika.
 
-📊 Deskripsi Dataset
+##📊 Deskripsi Dataset
 Dataset ini mencakup berbagai informasi kasus, meliputi:
 
 No Putusan: Nomor unik untuk setiap putusan kasus oleh pengadilan, dapat digunakan untuk merujuk dokumen asli.
@@ -16,23 +16,25 @@ Amar Putusan: Keputusan akhir pengadilan terhadap terdakwa, termasuk hukuman, de
 Sumber Data
 Data dalam dataset ini berasal dari putusan yang dikeluarkan antara tahun 2022 hingga 2024 oleh Pengadilan Negeri Makassar. Data diambil dari sumber-sumber resmi yang tersedia untuk publik atau dapat diakses secara hukum.
 
-📌 Penggunaan Dataset
+##📌 Penggunaan Dataset
 Dataset ini bermanfaat untuk berbagai keperluan:
 
 Analisis Tren Putusan: Mengidentifikasi pola hukuman dari tahun ke tahun.
 Kajian Hukum: Menganalisis pertimbangan hukum dalam amar putusan, khususnya dalam kasus narkotika dan psikotropika.
-Pendidikan dan Pelatihan Hukum: Berguna bagi mahasiswa hukum dan profesional sebagai bahan studi kasus dan latihan penyusunan argumentasi hukum.
-📜 Struktur Repository
+Pendidikan dan Pelatihan Hukum: Berguna bagi mahasiswa hukum dan profesional sebagai bahan studi kasus dan latihan penyusunan argumentasi hukum.\
+
+##📜 Struktur Repository
 Dataset: Berisi data dan dokumen PDF terkait kasus pidana khusus (narkotika dan psikotropika).
 Overview: Gambaran umum tentang dataset yang telah diolah.
 README: Penjelasan lengkap terkait isi dan tujuan repository.
-⚖️ Dasar Hukum
+
+##⚖️ Dasar Hukum
 Undang-Undang Nomor 35 Tahun 2009 tentang Narkotika
 Undang-Undang Nomor 5 Tahun 1997 tentang Psikotropika
 Peraturan Pemerintah Nomor 40 Tahun 2013 tentang Pelaksanaan Undang-Undang Narkotika
 Referensi di atas menjadi dasar hukum dalam penanganan kasus narkotika dan psikotropika di Pengadilan Negeri Makassar, termasuk proses persidangan, penjatuhan hukuman, hingga rehabilitasi pelaku penyalahgunaan narkotika dan psikotropika.
 
-⚙️ Proses Peradilan di Pengadilan Negeri Makassar
+##⚙️ Proses Peradilan di Pengadilan Negeri Makassar
 Setiap kasus narkotika dan psikotropika umumnya melalui beberapa tahap proses hukum:
 
 Penyelidikan: Aparat kepolisian mengumpulkan bukti awal.
@@ -43,7 +45,7 @@ Putusan: Hakim menentukan vonis, seperti hukuman penjara, denda, atau rehabilita
 🏛️ Tentang Pengadilan Negeri Makassar
 Pengadilan Negeri Makassar menangani berbagai kasus pidana, termasuk pidana khusus terkait narkotika dan psikotropika. Pengadilan ini bertugas memastikan setiap kasus diproses secara adil dan sesuai hukum, serta mendukung tujuan rehabilitasi dalam penanganan kasus penyalahgunaan narkotika.
 
-📌 Informasi
+##📌 Informasi
 Dataset ini dikumpulkan sebagai penugasan Ujian Tengah Semester untuk memenuhi nilai Mata Kuliah Temu Kembali Informasi.
 
 
